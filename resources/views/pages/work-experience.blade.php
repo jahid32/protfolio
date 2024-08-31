@@ -28,8 +28,8 @@
             Agile environment and participated in sprint planning and retrospectives.</p>
         <ul class="list-disc list-inside text-base font-normal text-gray-500 dark:text-gray-400">
             <li>Implemented responsive designs for mobile-first approach</li>
-            <li>Integrated third-party APIs for enhanced functionality</li>
-            <li>Optimized database queries, improving load times by 25%</li>
+            <li>Focused on creating responsive designs with a mobile-first approach to ensure seamless user experiences across devices.</li>
+            <li>Integrated various third-party APIs to extend website functionality.</li>
         </ul>
     </div>
 
@@ -37,12 +37,12 @@
         <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
         <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">June 2012 - February 2015</time>
         <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Web Developer at <a href="https://sourcetop.com" class="text-blue-500 hover:text-blue-600">Sourcetop Inc.</a></h3>
-        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Developed and maintained multiple client websites using JavaScript, PHP, and MySQL. Worked in an
+        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Developed and maintained multiple client websites using Drupal and WordPress. Worked in an
             Agile environment and participated in sprint planning and retrospectives.</p>
         <ul class="list-disc list-inside text-base font-normal text-gray-500 dark:text-gray-400">
             <li>Implemented responsive designs for mobile-first approach</li>
-            <li>Integrated third-party APIs for enhanced functionality</li>
-            <li>Optimized database queries, improving load times by 25%</li>
+            <li>Convert PSD designs to WordPress and Drupal Theams</li>
+            <li>Provide support for various browser and mobile devices</li>
         </ul>
     </div>
 
@@ -51,12 +51,14 @@
         <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
         <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2010 - September 2021</time>
         <h3 class="text-lg font-semibold text-gray-900 dark:text-white">UI developer at <a href="https://esoftarena.com" class="text-blue-500 hover:text-blue-600"> eSoftArena</a></h3>
-        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Assisted in the development of a SaaS platform using Vue.js and Laravel. Gained experience in
+        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Assisted in the development of various web applications. Gained experience in
             version control with Git and collaborative development practices.</p>
         <ul class="list-disc list-inside text-base font-normal text-gray-500 dark:text-gray-400">
-            <li>Contributed to front-end development using Vue.js components</li>
-            <li>Assisted in writing unit tests to ensure code quality</li>
-            <li>Participated in code reviews and improved coding skills</li>
+            <li>Contributed to the development of a variety of web applications convert their PSD designs to HTML</li>
+            <li>Utilized Git for version control and collaboration</li>
+            <li>Provide support for old browsers like IE and Safari</li>
+            <li>Played a key role in front-end development by creating and maintaining various web layouts.</li>
+            <li>Participated in code reviews, continuously improving coding skills and contributing to a high standard of code quality.</li>
         </ul>
     </div>
 </div>
