@@ -2,10 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProjectController;
-use App\Http\Controllers\HomePageController;
+use App\Http\Controllers\PageController;
 
-Route::get('/', HomePageController::class);
+Route::get('/', [PageController::class, 'index'])->name('home');
 
-Route::view('work-experiences', 'pages.work-experience');
+Route::get('/work-experiences', [PageController::class, 'workExperiences'])->name('work-experiences');
 
 Route::resource('projects', ProjectController::class);
