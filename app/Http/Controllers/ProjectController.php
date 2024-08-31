@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
 
 class ProjectController extends Controller
 {
@@ -11,7 +12,8 @@ class ProjectController extends Controller
      */
     public function index()
     {
-        return view('projects.index');
+        $projects = collect(Storage::json('data/projects.json'));
+        return view('projects.index', compact('projects'));
     }
 
     /**
@@ -35,7 +37,9 @@ class ProjectController extends Controller
      */
     public function show(string $id)
     {
-        //
+        $projects = collect(Storage::json('data/projects.json'));
+        $project = $projects->where('id', $id)->first();
+        return view('projects.show', compact('project'));
     }
 
     /**
@@ -43,7 +47,7 @@ class ProjectController extends Controller
      */
     public function edit(string $id)
     {
-        //
+        
     }
 
     /**
